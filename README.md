@@ -1,5 +1,7 @@
 # E06b-Sound-and-Music
 
+-- The following assignment has been completed by James Ashcraft
+
 This is an opportunity for you to create sound effects and music and make them a part of your games going forward. Fork and Clone this repository to your computer.
 
 First, you will need to download and install audio recording software. I recommend using [Audacity](https://www.audacityteam.org/download/), it is free and it should allow you to quickly accomplish the requirements of this exercise.
